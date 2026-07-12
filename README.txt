@@ -1,0 +1,1 @@
+Deploy this ZIP to AWS Amplify using manual deployment. After Amplify gives you the hosted URL, add that exact URL to the Cognito SPA app client as both the allowed callback URL and allowed sign-out URL. Match the URL exactly, including a trailing slash if present.
