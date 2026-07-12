@@ -1,1 +1,1 @@
-window.COACHHQ_CONFIG={cognitoDomain:"https://us-east-2g7gnjpmo0.auth.us-east-2.amazoncognito.com",clientId:"7oqro1shf00j6g6chrns2pr0v6",apiBaseUrl:"https://1egq58x99a.execute-api.us-east-2.amazonaws.com/prod",scopes:["openid","email","profile"]};
+window.COACHHQ_CONFIG={cognitoDomain:"https://us-east-2g7gnjpmo0.auth.us-east-2.amazoncognito.com",clientId:"7oqro1shf00j6g6chrns2pr0v6",apiBaseUrl:"https://1egq58x99a.execute-api.us-east-2.amazonaws.com/prod",scopes:["openid","email"]};
